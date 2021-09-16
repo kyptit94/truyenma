@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{QHLP:function(t,e,u){"use strict";u.r(e);var n={mounted:function(){console.log(this.$route.query.url),this.$router.push(this.$route.query.url)}},r=u("KHd+"),o=Object(r.a)(n,(function(){var t=this.$createElement;return(this._self._c||t)("div")}),[],!1,null,null,null);e.default=o.exports}}]);
